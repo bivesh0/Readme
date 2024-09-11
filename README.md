@@ -46,7 +46,9 @@
   <a href="https://www.linkedin.com/in/bivesh-thakur-4602081a0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+  <a href="https://tryhackme.com/p/bivesh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+  </a>
   <a href="https://x.com/bivesh_t" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=%F0%9D%95%8F&color=1DA1F2&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
@@ -61,4 +63,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bivesh0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-####
+###
