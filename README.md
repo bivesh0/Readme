@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bivesh Thakur... and I'm a BTech Student, from Nepal</h2>
+<h2 align="left">Hi 👋! I'm Bivesh Thakur</h2>
 
 ###
 
@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bivesh0&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=bivesh0&locale=en&mode=weekly&theme=aura&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
